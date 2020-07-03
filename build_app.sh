@@ -1,0 +1,1 @@
+gcc -o awoo_app_exe awoo-app.c -lpam -lpam_misc
